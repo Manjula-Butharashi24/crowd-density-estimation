@@ -726,3 +726,5 @@ def history():
     return render_template('history.html', logs=logs)
 
 
+print("")
+print("feature1")
